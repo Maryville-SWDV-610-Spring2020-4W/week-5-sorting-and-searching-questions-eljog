@@ -1,5 +1,3 @@
-# Insertion sort
-
 def bubbleSort(list):
     print(f"Bubble sort => {list}")
     
